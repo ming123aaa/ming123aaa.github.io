@@ -1,1 +1,1 @@
-asdadasdasdasd
+{"patch":{"2":{"apkVersion":2,"patchVersion":3,"patchPath":"http://192.168.2.103:8080/main/get?name\u003d%2fout.apk","isRestart":true,"isUpdateRes":true}}}
